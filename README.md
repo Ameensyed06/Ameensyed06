@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BTech Artificial Intelligence & Data Science Student at Saveetha University | Chennai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Mastering+AI+Tools+%26+Automation;Future+AI+Engineer+in+the+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Mastering+AI+Tools+%26+Automation;" alt="Typing SVG" />
 </p>
 
 ---
